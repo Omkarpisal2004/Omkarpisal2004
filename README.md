@@ -1,56 +1,91 @@
-#  I'm Omkar 
+# Omkar Pisal
 
-### Java Backend Developer | Spring Boot | Problem Solving
+### Java Backend Developer | Spring Boot | MySQL
 
-I'm a B.Tech graduate , focused on building reliable and scalable backend applications using Java and Spring Boot.
+B.Tech graduate focused on Java backend development, building reliable REST APIs and understanding backend engineering fundamentals.
 
-Currently strengthening my backend engineering skills and preparing for Software Engineering opportunities.
-
-###  Technical Skills
-
-* **Languages:** Java, SQL
-* **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-* **Security:** Spring Security, JWT Authentication
-* **Database:** MySQL
-* **Core Concepts:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
-* **System Design:** Low-Level Design, High-Level Design, Database Design
-* **Tools:** Git, GitHub, Maven, IntelliJ IDEA, Postman
-
-###  Featured Project
-
-**Financial Transaction System**
-
-A banking-inspired backend application built using Java and Spring Boot.
-
-Key engineering features:
-
-* Double-entry bookkeeping and immutable ledger entries
-* ACID transactions and concurrency control
-* Pessimistic locking and deadlock prevention
-* Idempotent transaction processing
-* JWT-based authentication and authorization
-* Transaction history with pagination and filtering
-* Audit logging and rate limiting
-
-###  Problem Solving
-
-Practicing Data Structures & Algorithms using Java.
-
-Currently focusing on:
-
-* Arrays & Strings
-* Two Pointers & Sliding Window
-* Binary Search
-* Hashing
-* Trees & Graphs
-
-###  Current Focus
-
-* Mastering Java Backend Development
-* Building production-oriented backend systems
-* Strengthening DSA and System Design
-* Preparing for Software Engineering interviews
+Currently strengthening my skills in Java, Spring Boot, Data Structures & Algorithms, and System Design while preparing for Software Engineering opportunities.
 
 ---
 
- Always learning, building, and improving.
+## Technical Skills
+
+**Languages**
+- Java
+- SQL
+
+**Backend Development**
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST APIs
+
+**Database & Security**
+- MySQL
+- Spring Security
+- JWT Authentication
+
+**Tools**
+- Git & GitHub
+- Maven
+- IntelliJ IDEA
+- Postman
+
+**Computer Science Fundamentals**
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- Data Structures & Algorithms
+
+## Featured Project
+
+### Financial Transaction System
+
+A banking-inspired backend application built with Java, Spring Boot, and MySQL.
+
+**Key Engineering Implementations:**
+- Double-entry bookkeeping and ledger management.
+- ACID-compliant transaction processing.
+- Pessimistic locking and concurrency control.
+- Idempotent transfer processing.
+- JWT-based authentication and authorization.
+- Transaction history with pagination and filtering.
+- Audit logging and rate limiting.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, Hibernate, MySQL, Maven.
+
+[View Project Repository](https://github.com/Omkarpisal2004/financial-transaction-system)
+
+---
+
+## Problem Solving
+
+Practicing Data Structures & Algorithms using Java.
+
+Currently revising:
+- Arrays & Strings
+- Two Pointers
+- Sliding Window
+- Hashing
+- Binary Search
+
+[View DSA Solutions](https://github.com/Omkarpisal2004/leetcode-solutions)
+
+---
+
+## Current Focus
+
+- Strengthening Java and Spring Boot.
+- Understanding backend architecture and database internals.
+- Improving problem-solving skills.
+- Learning scalable backend system design.
+- Building practical backend engineering projects.
+
+---
+
+## Connect
+
+- **GitHub:** [Omkarpisal2004](https://github.com/Omkarpisal2004)
+- **LinkedIn:** [Omkar Pisal](https://www.linkedin.com/in/omkar-pisal06/)
